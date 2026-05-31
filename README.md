@@ -73,11 +73,7 @@ Hands-on implementation of AWS services including EC2, IAM, S3, VPC, CloudWatch,
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VISHNU23CSB61&theme=tokyo-night&hide_border=true)
 
-## 📈 Contribution Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VISHNU23CSB61&theme=tokyo-night)
-
----
 
 ## 🌱 Currently Learning
 
