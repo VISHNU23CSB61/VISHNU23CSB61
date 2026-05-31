@@ -59,16 +59,19 @@ Containerization and orchestration projects using Docker and Kubernetes.
 Hands-on implementation of AWS services including EC2, IAM, S3, VPC, CloudWatch, and Auto Scaling.
 
 ---
-
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VISHNU23CSB61&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VISHNU23CSB61&show_icons=true&theme=tokyonight&count_private=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=VISHNU23CSB61&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=VISHNU23CSB61&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VISHNU23CSB61&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VISHNU23CSB61&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
+
+## 📈 Contribution Activity
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VISHNU23CSB61&theme=tokyo-night&hide_border=true)
 
 ## 📈 Contribution Graph
 
