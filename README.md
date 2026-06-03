@@ -2,7 +2,7 @@
 
 ### ☁️ AWS Certified Solutions Architect – Associate | AWS Certified Cloud Practitioner | Aspiring Cloud & DevOps Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=700&lines=Cloud+Computing+Enthusiast;AWS+Certified+Solutions+Architect;DevOps+Learner;Docker+%7C+Kubernetes+%7C+Jenkins;Always+Learning+New+Technologies;SDE+Java developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=700&lines=Cloud+Computing+Enthusiast;AWS+Certified+Solutions+Architect;DevOps+Learner;Docker+%7C+Kubernetes+%7C+Jenkins;Always+Learning+New+Technologies" alt="Typing SVG" />
 
 ---
 
