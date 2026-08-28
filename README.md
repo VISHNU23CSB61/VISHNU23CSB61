@@ -1,7 +1,8 @@
+<img width="1900" height="684" alt="241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5" src="https://github.com/user-attachments/assets/d5660e2e-6c97-492f-bcca-df879290de5b" />
 <!-- ===================== BANNER ===================== -->
 
 <p align="center">
-  <img src="./cloud-banner.png" width="100%" alt="Cloud DevOps MERN Banner"/>
+<img width="1900" height="684" alt="241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5" src="https://github.com/user-attachments/assets/d5660e2e-6c97-492f-bcca-df879290de5b" />
 </p>
 
 <h1 align="center">
