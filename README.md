@@ -1,111 +1,201 @@
-# Hi 👋, I'm Vishnu S
+<!-- ===================== BANNER ===================== -->
 
-### ☁️ AWS Certified Solutions Architect – Associate | AWS Certified Cloud Practitioner | Aspiring Cloud & DevOps Engineer
+<p align="center">
+  <img src="./cloud-banner.png" width="100%" alt="Cloud DevOps MERN Banner"/>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=700&lines=Cloud+Computing+Enthusiast;AWS+Certified+Solutions+Architect;DevOps+Learner;Docker+%7C+Kubernetes+%7C+Jenkins;Always+Learning+New+Technologies" alt="Typing SVG" />
+<h1 align="center">
+  Hi 👋, I'm Vishnu S
+</h1>
+
+<h3 align="center">
+  ☁️ Cloud & DevOps Engineer | ⚛️ MERN Stack Developer | 🚀 AWS Certified
+</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/vishnu-s124/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:vishnutitan40@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/VISHNU23CSB61">
+    <img src="https://img.shields.io/badge/GitHub-VISHNU23CSB61-181717?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Cloud+Computing+Enthusiast;AWS+Certified+Solutions+Architect;Cloud+%26+DevOps+Learner;MERN+Stack+Developer;Docker+%7C+Kubernetes+%7C+Jenkins;Build+%7C+Deploy+%7C+Scale+%7C+Repeat+🚀" />
+</p>
 
 ---
 
-## 🚀 About Me
+## ☁️ About Me
 
-- 🎓 Computer Science Engineering Student
+🎓 Computer Science Engineering student passionate about **Cloud Computing, DevOps and Full-Stack Development**.
+
 - ☁️ AWS Certified Solutions Architect – Associate
 - ☁️ AWS Certified Cloud Practitioner
-- 🔭 Currently learning DevOps and Cloud Technologies
-- 🌱 Learning Kubernetes, GitHub Actions, Jenkins & Terraform
-- 🎯 Goal: Become a Cloud & DevOps Engineer
-- 📍 Coimbatore, Tamil Nadu, India
+- 💻 MERN Stack Developer
+- ⚙️ Learning Cloud & DevOps Engineering
+- 🚀 Building and deploying real-world applications
+- 🐳 Working with Docker and containerization
+- ☸️ Exploring Kubernetes
+- 🔄 Learning CI/CD with GitHub Actions & Jenkins
+- 🏗️ Learning Infrastructure as Code with Terraform
+- 🎯 Goal: Become a **Cloud & DevOps Engineer**
+
+> **Code → Cloud → Deploy → Scale 🚀**
 
 ---
 
-## 🛠️ Tech Stack
+# ☁️ Cloud & DevOps
+
+I am interested in building applications that are not only functional,
+but also **deployable, scalable and reliable**.
+
+### ☁️ Cloud
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![IAM](https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white)
+![VPC](https://img.shields.io/badge/VPC-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+### ⚙️ DevOps
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-## 🏅 Certifications
+# ⚛️ MERN Stack Developer
 
-✅ AWS Certified Solutions Architect – Associate
+I build modern full-stack applications using the **MERN stack**.
 
-✅ AWS Certified Cloud Practitioner
+<p align="center">
 
----
+<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
 
-## 📊 GitHub Statistics
+</p>
 
-![](https://github-readme-stats.vercel.app/api?username=VISHNU23CSB61&theme=tokyonight&show_icons=true&count_private=true)
+### 🧩 MERN Stack
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=VISHNU23CSB61&theme=tokyonight)
+| Technology | Purpose |
+|---|---|
+| 🍃 MongoDB | NoSQL Database |
+| ⚡ Express.js | Backend Framework |
+| ⚛️ React.js | Frontend UI |
+| 🟢 Node.js | Backend Runtime |
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VISHNU23CSB61&theme=tokyonight&layout=compact)
+### 🚀 Full-Stack Skills
 
----
-
-## 📈 Contribution Graph
-
-[![Vishnu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VISHNU23CSB61&theme=tokyo-night)](https://github.com/VISHNU23CSB61)
-
----
-
-## 🚀 Featured Projects
-
-### 🔹 Expense Tracker
-Flask-based expense management application with charts and analytics.
-
-### 🔹 GitHub Actions Website Deployment
-Automated website deployment using GitHub Actions and GitHub Pages.
-
-### 🔹 AI Waste Classification System
-AI-powered waste identification and recycling guidance.
-
-### 🔹 Docker & Kubernetes Labs
-Containerization and orchestration projects.
-
-### 🔹 AWS Cloud Projects
-Hands-on projects using EC2, S3, IAM, VPC, CloudWatch, and Auto Scaling.
+- React Components
+- React Hooks
+- REST APIs
+- CRUD Operations
+- Authentication
+- Express.js APIs
+- MongoDB
+- Mongoose
+- API Integration
+- State Management
+- Responsive UI
+- Git & GitHub
 
 ---
 
-## 🌱 Currently Learning
+# 🛠️ Complete Tech Stack
 
-- Terraform
-- Kubernetes Administration
-- CI/CD Pipelines
-- GitHub Actions
-- AWS Architecture Best Practices
+### 👨‍💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,javascript" />
+</p>
+
+### 🌐 Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,html,css" />
+</p>
+
+### ☁️ Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,terraform,linux,githubactions" />
+</p>
+
+### 🔧 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,mysql" />
+</p>
 
 ---
 
-## 🌐 Connect With Me
+# 🏅 Certifications
 
-<a href="https://www.linkedin.com/in/vishnu-s124/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+### ☁️ AWS Certified Solutions Architect – Associate
 
-<a href="mailto:vishnutitan40@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+**Amazon Web Services**
 
----
+### ☁️ AWS Certified Cloud Practitioner
 
-## 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=VISHNU23CSB61&color=blue)
+**Amazon Web Services**
 
 ---
 
-### 💡 Quote
+# 🚀 Featured Projects
 
-> "Building my future one commit at a time."
+## 🔹 LostLines – Campus Lost & Found Platform
 
-⭐ Thanks for visiting my profile!
+A web application designed to help students report and recover lost items.
+
+**Features**
+
+- 🔐 Login & registration
+- 🔎 Search and filtering
+- 📊 Dashboard statistics
+- 📝 Report lost/found items
+- 🌙 Dark mode
+- 📥 CSV export
+- 💾 Local storage
+
+**Tech:** `HTML` `CSS` `JavaScript`
+
+---
+
+## 🔹 AutoDeploy – Cloud & DevOps Project
+
+A containerized application demonstrating a modern DevOps deployment workflow.
+
+**Technologies**
+
+`Docker` `Nginx` `GitHub Actions` `CI/CD` `Self-Hosted Runner`
+
+**Workflow**
+
+```text
+Developer
+    ↓
+Git Push
+    ↓
+GitHub
+    ↓
+GitHub Actions
+    ↓
+Build
+    ↓
+Docker Image
+    ↓
+Container
+    ↓
+Nginx
+    ↓
+Application 🚀
