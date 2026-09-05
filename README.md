@@ -16,7 +16,7 @@
 <!-- ========================================================= -->
 
 <h1 align="center">
-  Vishnu S
+  Vishnu Suresh
 </h1>
 
 <h3 align="center">
